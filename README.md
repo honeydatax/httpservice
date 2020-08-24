@@ -1,2 +1,3 @@
-# sqlite
-sql lite sample codes easy code to beguiners
+# avr 
+avr processor stady for beguinners
+
