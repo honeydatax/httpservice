@@ -4,7 +4,7 @@
 http 
 web service 
 used in this sample is a compiler to run online txt2com
-to run on client side run upload localhost/password/hello.idx
+to run on client side run upload localhost/hello.idx
  8080 ~/hello.idx
 
 
