@@ -1,8 +1,13 @@
 # x code
-x code a html file creater easy code
+
+http 
+web service 
+used in this sample is a compiler to run online txt2com
+
+useful if you want to learnto build a game motor basede
 
 
-came to build you version on xcode
+
 
 
 
